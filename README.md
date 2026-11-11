@@ -1,4 +1,5 @@
-## Hi there 👋
+![](https://streak-stats.demolab.com/?user=95LightningMcQueen&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=95LightningMcQueen&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
 
 <!--
 **Kordebalet67/Kordebalet67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
