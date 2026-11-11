@@ -1,5 +1,6 @@
 ![](https://streak-stats.demolab.com/?user=Kordebalet67&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kordebalet67&theme=dark&hide_border=true&include_all_commits=true&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kordebalet67&theme=react-dark&hide_border=true&area=true)
 
 <!--
 **Kordebalet67/Kordebalet67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
