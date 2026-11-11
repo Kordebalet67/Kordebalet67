@@ -1,18 +1,30 @@
-![](https://streak-stats.demolab.com/?user=Kordebalet67&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kordebalet67&theme=dark&hide_border=true&include_all_commits=true&langs_count=8&count_private=true&layout=compact&hide=jupyter%20notebook)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kordebalet67&theme=react-dark&hide_border=true&area=true)
+<!-- ШАПКА -->
+<h1 align="center">Hi, I'm Kordebalet67</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=75D1FF&center=true&vCenter=true&width=500&lines=Data+Scientist;ML+Engineer;Python+Developer" />
+</p>
 
-<!--
-**Kordebalet67/Kordebalet67** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- КОНТАКТЫ -->
+<p align="center">
+  <a href="mailto:kordebalet67@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Kordebalet"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Kordebalet67&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
-Here are some ideas to get you started:
+<!-- TECH STACK -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 : ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,docker,git,linux,postgres&theme=dark&perline=8" />
+</p>
+
+<!-- СТАТИСТИКА (две плитки рядом) -->
+<p align="center">
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=Kordebalet67&theme=dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=Kordebalet67&theme=dark&layout=compact&hide=jupyter%20notebook&langs_count=8&hide_border=true" />
+</p>
+
+<!-- STREAK -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kordebalet67&theme=dark&hide_border=true&locale=ru" />
+</p>
+
