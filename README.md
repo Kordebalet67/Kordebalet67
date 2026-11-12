@@ -14,7 +14,7 @@
 <!-- TECH STACK -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,py,pytorch,tensorflow,sklearn,opencv,selenium,fastapi,django,flask,sqlite,postgres,mongodb&theme=dark&perline=20" />
+  <img src="https://skillicons.dev/icons?i=windows,linux,github,vscode,py,pytorch,tensorflow,sklearn,opencv,selenium,fastapi,django,flask,sqlite,postgres,mongodb&theme=dark&perline=8" />
 </p>
 
 <!-- СТАТИСТИКА (две плитки рядом) -->
@@ -28,3 +28,8 @@
   <img src="https://streak-stats.demolab.com?user=Kordebalet67&theme=dark&hide_border=true&locale=ru" />
 </p>
 
+<div align="center">
+  <a href="https://gitfut.com/Kordebalet67">
+    <img src="https://gitfut.com/Kordebalet67.png" width="260" alt="GitFut card" />
+  </a>
+</div>
