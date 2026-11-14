@@ -33,3 +33,7 @@
     <img src="https://gitfut.com/Kordebalet67.png" width="260" alt="GitFut card" />
   </a>
 </div>
+
+
+<!-- GITFUT:START -->
+<!-- GITFUT:END -->
